@@ -1,0 +1,24 @@
+{
+  "name": "apijs",
+  "version": "0.0.0",
+  "description": "A javascript library to create getters/setters for the reusable pattern",
+  "main": "api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emepyc/apijs"
+  },
+  "author": "Miguel Pignatelli",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "60ff852fbc5209aada8e90dfbbf8084cbcd650d4",
+  "dependencies": {
+    "mocha": "~1.18.2",
+    "chai": "~1.9.1"
+  }
+}
