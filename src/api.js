@@ -177,6 +177,8 @@ apijs = function (who) {
 	} else {
 	    who[name] = cbak;
 	}
+
+	return api;
     };
 
     return api;
