@@ -115,7 +115,7 @@ Checks can be defined on multiple methods at the same time:
     });
 
 </code>
-Checks can be defined using the method itself of its name:
+Checks can be defined using the method itself or its name:
 <code>
 
     var check_numeric = function (val) {
@@ -169,7 +169,7 @@ Transformations can be defined on multiple methods at the same time:
     });
 
 </code>
-Transformations can be defined using the method itself of its name:
+Transformations can be defined using the method itself or its name:
 <code>
 
     var abs_val = function (val) {
